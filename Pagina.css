@@ -1,0 +1,62 @@
+h1{
+   display: flex;
+   justify-content: space-around;
+   background-color: beige;
+   color: black; 
+   margin: 18px;
+   padding: 20px;
+}
+h2{
+    margin: 30px;
+    justify-content: space-around;
+}
+div{
+    justify-content: space-around;
+    margin: -18px;
+    padding-inline: 5px;
+    background-color: blanchedalmond;
+    text-decoration: dashed;
+    }
+    a{
+        justify-content: center;
+    }
+.nav-bar{
+    display: flex;
+    color: black;
+    text-decoration: dashed;
+    padding: 15px;
+    
+    
+}
+nav{
+    justify-content: space-around;
+    margin: 20px;
+    color: black;
+}
+
+
+
+.bg-body-tertiary{
+    
+    justify-content: space-around;
+    display: flex;
+    padding: 50px;
+}
+.btn-outline-success{
+    color: black;
+    background-color: black;
+}
+
+.card{
+    margin: 20px;
+}
+
+h2{
+
+}
+
+
+
+
+
+

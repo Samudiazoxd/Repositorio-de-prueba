@@ -1,0 +1,26 @@
+.nav-bar{
+    text-decoration: none;
+    padding: 10px;
+    background: gray;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.nav-bar:hover{
+    color: brown;
+}
+@media(max-width:300px) {
+    nav{
+        background: black;
+        flex-direction: column;
+
+    }
+    .nav-bar{
+        margin: 10px 0px;
+
+    }
+}

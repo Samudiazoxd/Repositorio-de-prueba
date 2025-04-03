@@ -1,0 +1,21 @@
+h1{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+
+}
+
+body{
+    color: aliceblue;
+    background-image: url(
+        universo-planeta_3840x2160_xtrafondos.com.jpg
+    );
+}
+.comen{
+    padding: 100px;
+}
+.caja{
+    width: 400px;
+    background-image: url(arte-de-estrellas-en-el-cielo_3840x2400_xtrafondos.com.jpg);
+    border: 1px;
+}
